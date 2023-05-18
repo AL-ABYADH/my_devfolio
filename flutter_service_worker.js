@@ -67,12 +67,12 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "favicon.png": "2eacc4ef82fbd399f707a82839d773f7",
-"icons/Icon-192.jpg": "4748391a06c8285ba5658d2ca0bc2cc0",
-"icons/Icon-512.jpg": "4748391a06c8285ba5658d2ca0bc2cc0",
-"index.html": "01d4f57d88a429cfeda4fb4c0e2469d2",
-"/": "01d4f57d88a429cfeda4fb4c0e2469d2",
+"icons/Icon-192.png": "4748391a06c8285ba5658d2ca0bc2cc0",
+"icons/Icon-512.png": "4748391a06c8285ba5658d2ca0bc2cc0",
+"index.html": "e13d027584bec6501dc4bc6e456bbd0a",
+"/": "e13d027584bec6501dc4bc6e456bbd0a",
 "main.dart.js": "1691bd1c6154ae6a2cae1a8351697fe7",
-"manifest.json": "ff5bf85cd22e34b045eabcc86a7aacf9",
+"manifest.json": "dce644adc7b05fd0ca5411035aa42294",
 "version.json": "a29e8b22a08aa0274b027931eec216c4"
 };
 
