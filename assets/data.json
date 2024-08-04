@@ -2,9 +2,9 @@
     "name": "Muhammad Hamza",
     "email": "hamza@mhmz.dev",
     "subtitles": [
-        "Flutter Developer",
+        "Flutter Mobile Developer",
         "Technical Writer",
-        "NodeJS Developer"
+        "NodeJS Web Developer"
     ],
     "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
     "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
@@ -34,7 +34,7 @@
             "url": "https://mhamzadev.medium.com/"
         }
     ],
-    "aboutMeHeadline": "I'm Muhammad Hamza, a Flutter developer, Technical Writer and NodeJS Developer.",
+    "aboutMeHeadline": "I'm Muhammad Hamza, a Flutter developer, Technical Writer and NodeJS Web Developer.",
     "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in COMSATS University, Islamabad. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
     "technologies": [
         "Flutter",
@@ -139,7 +139,7 @@
             "title": "Hidev",
             "iconUrl": "assets/services/open.png",
             "bannerUrl": "",
-            "description": "Its my end semester project. The whole design I developed here is an inspiration from my favortie Flutter Developer Marcin Szałek and his blog Fidev."
+            "description": "Its my end semester project. The whole design I developed here is an inspiration from my favortie Flutter Mobile Developer Marcin Szałek and his blog Fidev."
         }
     ],
     "contact": [
